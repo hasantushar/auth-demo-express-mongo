@@ -1,4 +1,4 @@
-# express-playground-w--mongoDB
+# auth-demo-express-mongo
 ### Meddling around express framework of node.js by handling login and authorizing user while storing them on mongoDB ###
 
 Using following modules:
